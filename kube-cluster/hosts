@@ -10,3 +10,6 @@ master ansible_host=35.192.95.137
 #node2 ansible_host=159.203.28.253 ansible_user=root
 node1 ansible_host=35.223.174.47
 node2 ansible_host=104.198.158.217
+
+[local]
+Erics-MBP.example.com 
