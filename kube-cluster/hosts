@@ -1,7 +1,7 @@
 [masters]
 #master ansible_host= 68.183.204.206 ansible_user=root
 #master ansible_host=68.183.204.206
-master ansible_host=35.192.95.137
+master ansible_host=35.192.95.137 
 
 
 [nodes]
@@ -12,4 +12,5 @@ node1 ansible_host=35.223.174.47
 node2 ansible_host=104.198.158.217
 
 [local]
-Erics-MBP.example.com 
+localhost 
+#35.192.95.137
