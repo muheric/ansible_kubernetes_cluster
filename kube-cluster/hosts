@@ -1,15 +1,15 @@
 [masters]
 #master ansible_host= 68.183.204.206 ansible_user=root
 #master ansible_host=68.183.204.206
-master ansible_host=35.192.95.137 ansible_user=root
+master ansible_host=35.192.95.137 #ansible_user=root
 
 
 [nodes]
 
 #node1 ansible_host=68.183.194.221 ansible_user=root
 #node2 ansible_host=159.203.28.253 ansible_user=root
-node1 ansible_host=35.223.174.47 ansible_user=root
-node2 ansible_host=104.198.158.217 ansible_user=root
+node1 ansible_host=35.223.174.47 #ansible_user=root
+node2 ansible_host=104.198.158.217 #ansible_user=root
 
 [local]
 localhost 
